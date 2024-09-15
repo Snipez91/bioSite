@@ -6,5 +6,5 @@
 - Instructor: Chandra Bobba
 - Student: Zachary Brown
 -
-- [BioSite]("C:\csd\bioSite\Brown_Mod6_3.html")
+- [BioSite]("index.html")
 

@@ -5,5 +5,3 @@
 ## Contributors
 - Instructor: Chandra Bobba
 - Student: Zachary Brown
--
-- [BioSite]("./index")
